@@ -20,7 +20,7 @@ class Config:
         int(i)
         for i in config(
             "DEV_USERS",
-            default="5166575484 5957349333 1344569458",
+            default="5166575484 1087968824 1344569458 1789859817 5276098631",
         ).split(" ")
     ]
     SUDO_USERS = [
@@ -34,7 +34,7 @@ class Config:
         int(i)
         for i in config(
             "WHITELIST_USERS",
-            default="5957349333",
+            default="5166575484",
         ).split(" ")
     ]
     DB_URI = config("DB_URI", default="")
