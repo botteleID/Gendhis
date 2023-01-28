@@ -60,7 +60,7 @@ class Development:
     API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
     OWNER_ID = 5166575484  # Your telegram user id defult to mine
     MESSAGE_DUMP = -100  # Your Private Group ID for logs
-    DEV_USERS = [5957349333, 5166575484]
+    DEV_USERS = [5957349333 5166575484]
     SUDO_USERS = []
     WHITELIST_USERS = []
     DB_URI = ""  # Your mongo DB URI
