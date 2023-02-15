@@ -36,4 +36,4 @@ itsdangerous==1.1.0
 jinja2==2.10
 markupSafe==1.1.0
 pyTelegramBotAPI==3.6.6
-werkzeug==0.14.1
+werkzeug==2.2.3
